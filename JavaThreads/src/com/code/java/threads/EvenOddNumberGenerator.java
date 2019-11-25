@@ -6,6 +6,8 @@ package com.code.java.threads;
  */
 public class EvenOddNumberGenerator {
 
+	
+	
 	private final int MAX_NUMBER;
 	private boolean isOdd;
 	private int count=1;
