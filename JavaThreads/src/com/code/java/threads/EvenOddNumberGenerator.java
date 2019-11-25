@@ -5,7 +5,6 @@ package com.code.java.threads;
  * Description: This program generates even & odd numbers using two threads
  */
 public class EvenOddNumberGenerator {
-	
 
 	private final int MAX_NUMBER;
 	private boolean isOdd;
